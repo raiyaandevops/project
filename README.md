@@ -1,3 +1,3 @@
 # project
 my first git repository
-Author - I Syed Faraz Raiyaan
+Author - I Syed Faraz
